@@ -1,0 +1,10 @@
+package loja.pedido.situacao;
+
+import loja.PedidoInterface;
+
+public class ChamadaFacade {
+	
+	public void abrir(PedidoInterface pedido) {
+		
+	}
+}

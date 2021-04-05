@@ -1,0 +1,81 @@
+package loja;
+
+import java.math.BigDecimal;
+
+import loja.pedido.situacao.Situacao;
+
+public class PedidoProxy implements PedidoInterface{
+
+	@Override
+	public String getEndereco() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getQuantidadeDeItens() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void setQuantidadeDeItens(int quantidadeDeItens) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public BigDecimal getValor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setValor(BigDecimal valor) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Situacao getSituacao() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void setSituacao(Situacao situacao) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void pagar() throws StateException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void entregar() throws StateException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void cancelar() throws StateException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void reabrir() throws StateException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void abrirChamado() throws StateException {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

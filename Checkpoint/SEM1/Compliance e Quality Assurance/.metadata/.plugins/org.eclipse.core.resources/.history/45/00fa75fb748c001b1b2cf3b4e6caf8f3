@@ -1,0 +1,22 @@
+package br.com.fiap.checkpoint;
+
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.io.IOException;
+
+import org.junit.jupiter.api.Test;
+
+public class Alfanumerico {
+
+	
+	@Test
+	void testeAlfaNumerico() throws IOException {
+		
+		int resultadoEsperado = 2;
+		int resultadoReal = CheckPoint.capturaNro('x');
+		
+		assertEquals(resultadoEsperado, resultadoReal);
+	}
+
+}

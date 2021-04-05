@@ -1,0 +1,14 @@
+package Tests;
+
+import CheckPoint
+
+import org.junit.jupiter.api.Test;
+
+class Numerico {
+
+	@Test
+	void testeNumerico() {
+		CheckPoint
+	}
+
+}

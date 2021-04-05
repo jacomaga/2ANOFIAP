@@ -1,0 +1,67 @@
+	Objetivo
+
+
+Nesse ano a Plus-soft juntamente com a FIAP, nos desafiou a criar um projeto que impacte positivamente a vida do usuário, utilizando obrigatoriamente IOT.
+
+Mas o que seria IOT? Internet das coisas ou IOT, é um seguimento moderno e revolucionário na área de tecnologia. O principal objetivo dessa área é melhorar o funcionamento de utensílios eletrônicos e até trazer novas funcionalidades integrando um ou mais aparelhos elétricos. Nessa Challenge de 2021 pensando nessa nova demanda de soluções de IOT, nós da Arach criamos a SmartKitchen.
+SmartKitchen é um equipamento que auxilia na admnistração caseira de alimentos de quaisquer grupos de pessoas, nele o usuário poderá cadastrar a entrada de um alimento bem como sua validade e quando houver um alimento que está fora do prazo de vencimento ou próximo, o aparelho irá emitir sinais de alerta. Nós da Arach esperamos que com esse produto possamos ajudar no combate ao desperdício de alimentos, problema de escopo global que ao comprar países com fome extrema faz com que fiquemos assustados.
+
+
+	Escopo de projeto
+	
+Justificativa do projeto
+
+Observando as inovações atuais do mercado, a Plus Soft empresa reconhecida no seguimento de desenvolvimento de soluções tecnológicas no campo de Human Experience junto a FIAP, trouxe um tema um tanto quanto importante na challenge desse ano, que é o desenvolvimento de soluções IOT que crie um impacto positivo na experiência do usuário. 
+Visando tais requisitos, a equipe Arach desenhou uma solução de controle alimentício residencial com a finalidade de aumentar o controle das datas de validade, tendo um impacto também no desperdício de alimento.
+
+Finalidade do projeto
+
+Essa aplicação terá como objetivo por em mãos a gestão da validade dos alimentos cadastrados no sistema, podendo escolher sua data de inclusão, quantidade e data de validade.
+Esperamos que após o usuário criar a rotina de cadastrar os alimentos adquiridos ele possa saber o que está consumindo e quanto está consumindo, deixando ele com a total noção do que ele precisa reabastecer e o que precisa ser consumido e/ou descartado. 
+
+Objetivo do projeto
+
+A pretensão desse projeto é o desenvolvimento de um gadget destinado ao cidadão comum, que melhore o gerencimento de seus recursos dentro da sua cozinha. Esperamos dar ao usuário final essa visualização sobre o que e quando é consumindo dentro de sua geladeira, dispensa, etc.
+
+Descrição do Produto
+
+SmartKitchen será um aparelho eletrônico que se conectará com o celular do usuário, através do celular o usuário poderá cadastrar, consultar, excluir e listar itens. Quando um alimento estiver próximo de vencimento ou já estiver fora da data de validade, o usuário será notificado através de sinais luminares que serão emitidos pelo aparelho eletrônico com a intenção de lembra-lo. 
+
+
+Stackeholders do projeto
+
+- Donas de casa
+- Pessoas recém independentes financeiras 
+- Universitários
+
+Entregas do projeto
+
+- 
+
+Estimativa de tempo e custo
+
+- O dia final de entrega será 25/11/2021
+
+Exclusões do projeto
+
+- Criar uma gestão alimentícia para comportar ecossistemas empresariais
+- Mostrar informações nutritivas
+
+Critérios de aceitação
+
+- O usuário deverá poder ler, consultar, listar e excluir itens
+- O usuário terá que ser notificado da proximidade e expiração do prazo de validade
+- O usuário terá que ter um controle de quantidade de alimentos
+
+Restrições 
+
+- Uso obrigatório de IOT
+- Prazos de entrega
+- Limitações de custo
+
+Risco
+
+- Custo do hardware e sensores 
+- Acesso a internet para atualização da base de dados
+ 
+

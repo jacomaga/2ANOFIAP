@@ -1,0 +1,5 @@
+package loja.imposto;
+
+public class ICMS implements Imposto{
+
+}

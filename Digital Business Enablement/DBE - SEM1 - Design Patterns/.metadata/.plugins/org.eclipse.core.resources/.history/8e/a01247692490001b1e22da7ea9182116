@@ -1,0 +1,25 @@
+package loja.imposto;
+
+import java.math.BigDecimal;
+
+import loja.PedidoInterface;
+
+public class ISS extends Imposto{
+
+	public ISS(Imposto outroImposto) {
+		super(outroImposto);
+	}
+
+	@Override
+	public BigDecimal calcular(PedidoInterface pedido) {
+			
+		BigDecimal valorOutroImposto = outroImposto.calcular(pedido);
+		BigDecimal valorImposto = pedido.getValor().multiply(new BigDecimal("0.5"));
+		
+		if (outroImposto != null) valorOutroImposto = outroImposto.calcular(pedido);
+		
+		return valorImposto.add(valorOutroImposto);
+	}
+	
+	protected abstract BigDecimal calcularImposto(PedidoInterface pedido);
+}

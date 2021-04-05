@@ -1,0 +1,12 @@
+package loja;
+
+public class PedidoProxy implements PedidoInterface{
+
+	private Pedido pedido;
+	
+	public PedidoProxy(Pedido pedido) {
+		super();
+		this.pedido = pedido;
+	}
+	
+}

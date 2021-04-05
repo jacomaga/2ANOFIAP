@@ -1,0 +1,14 @@
+import java.io.IOException;
+
+import org.junit.jupiter.api.Test;
+
+class CheckPointTest {
+
+	
+	@Test
+	void testLerString() throws IOException {
+		CheckPoint.capturaNro('c');
+		
+	}
+
+}

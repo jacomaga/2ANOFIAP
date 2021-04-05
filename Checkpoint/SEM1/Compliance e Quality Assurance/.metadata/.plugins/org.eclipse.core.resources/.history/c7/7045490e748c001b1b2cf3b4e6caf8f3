@@ -1,0 +1,16 @@
+
+
+
+import org.junit.jupiter.api.Test;
+
+class Numerico {
+
+	CheckPoint checkpoint = new CheckPoint()
+	@Test
+	void testeNumerico() {
+		
+		CheckPoint.capturaNro('2');
+		
+	}
+
+}

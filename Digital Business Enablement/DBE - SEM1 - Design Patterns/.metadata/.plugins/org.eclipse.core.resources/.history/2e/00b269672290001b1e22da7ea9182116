@@ -1,0 +1,7 @@
+package loja.imposto;
+
+import loja.PedidoInterface;
+
+public class Imposto {
+	public BigDecimal calcular(PedidoInterface pedido);
+}

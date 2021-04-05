@@ -1,0 +1,79 @@
+
+Imagem do Linux - Todos os sistemas operacionais
+=========================================
+
+Nome: Linux 7.6.iso
+
+https://drive.google.com/open?id=1VBkDS708wBhn77sJ4jGdFTf3B7KkkyYa
+
+
+
+Softwares do VirtualBox 
+===================
+
+
+Extension Pack - Todos os sistemas operacionais
+https://drive.google.com/open?id=1s7MQBWnGr6JMl0cjKEReLJVS83CqkU2Y
+
+
+VirtualBox - Windows
+https://drive.google.com/open?id=1sjd0FWZ7OWP5Wg-B04ORkQeatGyZFOg_
+
+
+VirtualBox - Mac OSX
+https://drive.google.com/open?id=1oXIKsXuzW2Dm_n7wdjOvM-1OESeqGy77
+
+
+
+Client - FTP
+==========
+
+
+CyberDuck - Mac OSX
+https://drive.google.com/open?id=1H5lYPjWmXoortdvzSCdBHy0Tve5etN8i
+
+FileZilla - Mac OSX
+https://drive.google.com/open?id=1EI0kEiUqJ4cezsENWJnpHrqURvbGPIJN
+
+WinSCP - Windows
+https://drive.google.com/open?id=195x9NXx3NLid7UowUffilCxbTwj1IpvL
+
+
+. Linux
+
+=> FileZilla no Ubuntu: 
+
+sudo apt-get -y install filezilla filezilla-locales
+
+
+=> FileZilla no RedHat, CentOS: 
+
+1) Instalar o: "Epel Package Repository" para o FileZilla
+
+sudo yum -y install epel-release
+
+2) Instalar o Filezilla
+
+sudo yum -y install filezilla
+
+
+
+VM do Linux (pronta)
+=================
+
+ATENÇÃO
+
+-
+- Essa VM é o final da Prática de Virtualização
+-
+- Será utilizada caso algum alune tenha problema e não conseguir realizar a instalação em aula, caso de falta etc
+-
+-
+
+Nome: Linux GUI - FIAP - 2020.ova
+
+https://drive.google.com/open?id=1UPelTt0gdxxJONaVFZM8d__pxuajyRKL
+
+Usuário e senha: oracle
+Senha root: oracle
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 packages to &apos;Aula 04 - Proxy Pattern/src&apos;&#x0A;- Original project: &apos;Aula 03 - State Pattern&apos;&#x0A;- Destination element: &apos;Aula 04 - Proxy Pattern/src&apos;&#x0A;- Original elements:&#x0A;     Aula 03 - State Pattern/src/loja.pedido.handler&#x0A;     Aula 03 - State Pattern/src/loja&#x0A;     Aula 03 - State Pattern/src/loja.pedido.situacao&#x0A;     Aula 03 - State Pattern/src/loja.financeiro&#x0A;     Aula 03 - State Pattern/src/loja.pedido.listener" description="Copy packages" destination="=Aula 04 - Proxy Pattern/src" element1="/src&lt;loja.pedido.handler" element2="/src&lt;loja" element3="/src&lt;loja.pedido.situacao" element4="/src&lt;loja.financeiro" element5="/src&lt;loja.pedido.listener" flags="589830" fragments="5" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1616972890294" version="1.0"/>
+</session>

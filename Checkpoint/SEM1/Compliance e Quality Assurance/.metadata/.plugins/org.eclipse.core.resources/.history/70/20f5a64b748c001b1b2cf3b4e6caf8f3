@@ -1,0 +1,19 @@
+
+
+
+import java.io.IOException;
+
+import org.junit.jupiter.api.Test;
+
+class Numerico {
+
+	
+	@Test
+	void testeNumerico() throws IOException {
+		
+		int valor = CheckPoint.capturaNro('1');
+		System.out.println(valor);
+		
+	}
+
+}

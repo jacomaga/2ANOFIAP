@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+/home/jay/Documents/dev/faculdade/2ANOFIAP/Digital Business Enablement/DBE - SEM1 - Design Patterns/.metadata/.plugins/org.eclipse.jdt.core
+4205909868.index
+3724985124.index
+908613914.index
+2618080562.index
+3973542586.index
+1476316402.index
+1411335587.index
+2330872059.index
+4039170959.index

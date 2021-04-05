@@ -1,0 +1,17 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.io.IOException;
+
+import org.junit.jupiter.api.Test;
+
+class CheckPointTest {
+
+	CheckPoint checkPoint = new CheckPoint();
+	
+	@Test
+	void testLerString(String x) throws IOException {
+		checkPoint.lerString("Teste");
+		
+	}
+
+}

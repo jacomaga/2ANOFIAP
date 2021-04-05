@@ -1,0 +1,9 @@
+package loja.imposto;
+
+import java.math.BigDecimal;
+
+import loja.PedidoInterface;
+
+public class Imposto {
+	public BigDecimal calcular(PedidoInterface pedido);
+}

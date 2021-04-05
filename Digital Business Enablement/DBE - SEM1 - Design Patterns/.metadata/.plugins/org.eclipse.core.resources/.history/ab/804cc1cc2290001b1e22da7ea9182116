@@ -1,0 +1,12 @@
+package loja.imposto;
+
+import loja.PedidoInterface;
+
+public class ICMS implements Imposto{
+
+	@Override
+	public BigDecimal calcular(PedidoInterface pedido) {
+		return pedido.getValor().multiply(new BigDecimal("0.1"));
+	}
+	
+}
