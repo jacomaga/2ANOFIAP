@@ -1,8 +1,0 @@
-package br.com.fiap.jpa.api.main;
-
-public class Terminal {
-
-	public static void main(String[] args) {
-		
-	}
-}
